@@ -1,7 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://tv.iill.top/m3u/Gather
+https://iptv0.hason.eu.org/m3u/Gather
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 # https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
