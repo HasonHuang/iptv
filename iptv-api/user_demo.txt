@@ -10,6 +10,8 @@ TVB J2
 千禧經典台
 华丽翡翠台
 myTV SUPER 18台
+ViuTV
+ViuTVsix
 Love Nature
 tvN
 Now新闻台
@@ -20,8 +22,6 @@ Now财经台
 凤凰卫视
 TVBS亚洲
 香港衛視
-ViuTV
-ViuTVsix
 美亞電影台
 HOY TV
 HOY 资讯
